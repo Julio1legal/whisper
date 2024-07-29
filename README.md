@@ -1,0 +1,2 @@
+# whisper
+traduccion minutas
